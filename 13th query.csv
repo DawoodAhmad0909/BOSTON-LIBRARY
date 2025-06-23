@@ -1,0 +1,26 @@
+book_id,title,author,isbn,genre,published_year,total_copies,available_copies
+1,"The Silent Patient","Alex Michaelides",9781250301697,"Psychological Thriller",2019,3,2
+2,"Where the Crawdads Sing","Delia Owens",9780735219090,Mystery,2018,5,3
+3,Educated,"Tara Westover",9780399590504,Memoir,2018,2,1
+4,"The Guest List","Lucy Foley",9780062868930,Thriller,2020,4,2
+5,"Project Hail Mary","Andy Weir",9780593135204,"Science Fiction",2021,3,0
+10,"The Invisible Life of Addie LaRue","V.E. Schwab",9780765387561,Fantasy,2020,5,2
+11,"Klara and the Sun","Kazuo Ishiguro",9780593318171,"Science Fiction",2021,3,1
+13,"The Four Winds","Kristin Hannah",9781250178602,"Historical Fiction",2021,4,2
+14,"The Sanatorium","Sarah Pearse",9780593296677,Thriller,2021,3,1
+19,"Black Buck","Mateo Askaripour",9780358380887,Satire,2021,2,0
+20,"The Paris Library","Janet Skeslien Charles",9781982134198,"Historical Fiction",2021,3,2
+21,"The Anthropocene Reviewed","John Green",9780525555216,Essays,2021,4,3
+22,"No One Is Talking About This","Patricia Lockwood",9780593189580,"Literary Fiction",2021,2,1
+24,"The Rose Code","Kate Quinn",9780062943477,"Historical Fiction",2021,5,2
+29,Matrix,"Lauren Groff",9781594634499,"Historical Fiction",2021,2,0
+30,"The Sentence","Louise Erdrich",9780062671127,"Literary Fiction",2021,3,2
+31,"Beautiful World, Where Are You","Sally Rooney",9780374602604,"Literary Fiction",2021,4,1
+33,Crossroads,"Jonathan Franzen",9780374181178,"Literary Fiction",2021,5,2
+34,"Oh William!","Elizabeth Strout",9780812989515,"Literary Fiction",2021,3,1
+36,"The Final Revival of Opal & Nev","Dawnie Walton",9781982140168,"Historical Fiction",2021,3,0
+40,"Second Place","Rachel Cusk",9780374604486,"Literary Fiction",2021,4,1
+42,"The Paper Palace","Miranda Cowley Heller",9780593329825,"Literary Fiction",2021,5,2
+43,"The Sweetness of Water","Nathan Harris",9780316362481,"Historical Fiction",2021,3,1
+45,"The Night Watchman","Louise Erdrich",9780062671189,"Historical Fiction",2020,3,0
+46,"Transcendent Kingdom","Yaa Gyasi",9780525658184,"Literary Fiction",2020,5,3

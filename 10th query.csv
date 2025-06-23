@@ -1,0 +1,9 @@
+book_id,title,author,isbn,genre,published_year,total_copies,available_copies,due_date,return_date
+1,"The Silent Patient","Alex Michaelides",9781250301697,"Psychological Thriller",2019,3,2,2023-11-15,NULL
+6,"Malibu Rising","Taylor Jenkins Reid",9781524798659,"Historical Fiction",2021,3,2,2023-11-19,NULL
+10,"The Invisible Life of Addie LaRue","V.E. Schwab",9780765387561,Fantasy,2020,5,2,2023-12-24,NULL
+15,"The Last Thing He Told Me","Laura Dave",9781501171345,Mystery,2021,5,3,2023-12-29,NULL
+4,"The Guest List","Lucy Foley",9780062868930,Thriller,2020,4,2,2024-09-15,NULL
+9,Circe,"Madeline Miller",9780316556347,Mythology,2018,4,3,2024-09-19,NULL
+14,"The Sanatorium","Sarah Pearse",9780593296677,Thriller,2021,3,1,2024-10-24,NULL
+17,"The Song of Achilles","Madeline Miller",9780062060624,Mythology,2012,3,1,2024-10-29,NULL

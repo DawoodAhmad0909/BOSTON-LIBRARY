@@ -1,0 +1,31 @@
+book_id,title,author,isbn,genre,published_year,total_copies,available_copies
+5,"Project Hail Mary","Andy Weir",9780593135204,"Science Fiction",2021,3,0
+12,"The Push","Ashley Audrain",9781984881663,"Psychological Thriller",2021,2,0
+19,"Black Buck","Mateo Askaripour",9780358380887,Satire,2021,2,0
+23,"The Prophets","Robert Jones Jr.",9780593085684,"Historical Fiction",2021,3,0
+29,Matrix,"Lauren Groff",9781594634499,"Historical Fiction",2021,2,0
+32,"The Book of Form and Emptiness","Ruth Ozeki",9780399563645,"Magical Realism",2021,3,0
+36,"The Final Revival of Opal & Nev","Dawnie Walton",9781982140168,"Historical Fiction",2021,3,0
+41,"The Plot","Jean Hanff Korelitz",9781250790767,Thriller,2021,3,0
+11,"Klara and the Sun","Kazuo Ishiguro",9780593318171,"Science Fiction",2021,3,1
+14,"The Sanatorium","Sarah Pearse",9780593296677,Thriller,2021,3,1
+22,"No One Is Talking About This","Patricia Lockwood",9780593189580,"Literary Fiction",2021,2,1
+25,"The Maidens","Alex Michaelides",9781250304452,"Psychological Thriller",2021,3,1
+27,"Cloud Cuckoo Land","Anthony Doerr",9781982168438,"Historical Fiction",2021,3,1
+31,"Beautiful World, Where Are You","Sally Rooney",9780374602604,"Literary Fiction",2021,4,1
+34,"Oh William!","Elizabeth Strout",9780812989515,"Literary Fiction",2021,3,1
+38,"The Other Black Girl","Zakiya Dalila Harris",9781982160135,Satire,2021,2,1
+40,"Second Place","Rachel Cusk",9780374604486,"Literary Fiction",2021,4,1
+43,"The Sweetness of Water","Nathan Harris",9780316362481,"Historical Fiction",2021,3,1
+6,"Malibu Rising","Taylor Jenkins Reid",9781524798659,"Historical Fiction",2021,3,2
+13,"The Four Winds","Kristin Hannah",9781250178602,"Historical Fiction",2021,4,2
+16,"People We Meet on Vacation","Emily Henry",9781984806758,Romance,2021,4,2
+20,"The Paris Library","Janet Skeslien Charles",9781982134198,"Historical Fiction",2021,3,2
+24,"The Rose Code","Kate Quinn",9780062943477,"Historical Fiction",2021,5,2
+26,"The Lincoln Highway","Amor Towles",9780735222359,"Literary Fiction",2021,4,2
+30,"The Sentence","Louise Erdrich",9780062671127,"Literary Fiction",2021,3,2
+33,Crossroads,"Jonathan Franzen",9780374181178,"Literary Fiction",2021,5,2
+35,"The Love Songs of W.E.B. Du Bois","Honorée Fanonne Jeffers",9780062942968,"Historical Fiction",2021,4,2
+39,"Light Perpetual","Francis Spufford",9781509873166,"Historical Fiction",2021,3,2
+42,"The Paper Palace","Miranda Cowley Heller",9780593329825,"Literary Fiction",2021,5,2
+44,"The Five Wounds","Kirstin Valdez Quade",9780393242779,"Literary Fiction",2021,4,2
